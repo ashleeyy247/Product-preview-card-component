@@ -71,7 +71,6 @@ body {
     border-radius: 8px 8px 0 0;
   }
   .desktop {
-    height: stretch;
     display: none;
   }
 }
@@ -105,7 +104,7 @@ body {
 }
 
 .price {
-  font-family: "Fraunces";
+  font-family: "Fraunces", sans-serif;
   font-size: 2.5rem;
   font-weight: 700;
   color: var(--green-500);
